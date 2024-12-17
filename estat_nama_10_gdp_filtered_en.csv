@@ -1,0 +1,81 @@
+DATAFLOW,LAST UPDATE,freq,unit,na_item,geo,TIME_PERIOD,OBS_VALUE,OBS_FLAG
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Albania,2022,15283.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Albania,2023,15885.0,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Austria,2022,419590.7,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Austria,2023,415583.8,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Bosnia and Herzegovina,2022,19874.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Bosnia and Herzegovina,2023,20289.2,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Belgium,2022,513365.6,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Belgium,2023,519791.4,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Bulgaria,2022,69424.7,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Bulgaria,2023,70734.6,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Switzerland,2022,707831.7,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Switzerland,2023,712668.5,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Cyprus,2022,26757.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Cyprus,2023,27456.0,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Czechia,2022,235712.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Czechia,2023,235511.2,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Germany,2022,3625205.7,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Germany,2023,3615546.7,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Denmark,2022,340321.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Denmark,2023,348812.8,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Euro area - 12 countries (2001-2006),2022,12412012.4,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Euro area - 12 countries (2001-2006),2023,12455673.8,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Euro area - 19 countries  (2015-2022),2022,12724399.9,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Euro area - 19 countries  (2015-2022),2023,12772150.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Euro area – 20 countries (from 2023),2022,12785693.0,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Euro area – 20 countries (from 2023),2023,12835517.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Estonia,2022,29870.5,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Estonia,2023,28967.5,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Greece,2022,192494.9,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Greece,2023,196984.1,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Spain,2022,1279122.0,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Spain,2023,1313347.0,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,European Union - 27 countries (from 2020),2022,14941767.9,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,European Union - 27 countries (from 2020),2023,15005839.4,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Finland,2022,246373.0,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Finland,2023,243505.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,France,2022,2541528.8,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,France,2023,2565329.9,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Croatia,2022,61291.2,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Croatia,2023,63315.4,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Hungary,2022,155192.0,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Hungary,2023,153723.5,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Ireland,2022,482636.9,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Ireland,2023,455947.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Iceland,2022,21736.9,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Iceland,2023,22831.9,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Italy,2022,1903966.7,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Italy,2023,1917249.4,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Lithuania,2022,54828.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Lithuania,2023,55016.0,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Luxembourg,2022,70104.0,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Luxembourg,2023,69335.9,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Latvia,2022,31821.2,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Latvia,2023,32364.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Montenegro,2022,5034.6,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Montenegro,2023,5353.7,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,North Macedonia,2022,11654.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,North Macedonia,2023,11895.6,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Malta,2022,16969.0,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Malta,2023,18105.5,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Netherlands,2022,911159.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Netherlands,2023,911838.7,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Poland,2022,598554.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Poland,2023,599385.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Portugal,2022,227032.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Portugal,2023,232767.6,e
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Romania,2022,242588.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Romania,2023,248420.6,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Serbia,2022,54313.5,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Serbia,2023,56403.2,p
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Sweden,2022,514718.4,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Sweden,2023,513536.8,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Slovenia,2022,52027.3,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Slovenia,2023,53126.5,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Slovakia,2022,100170.7,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Slovakia,2023,101551.4,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Türkiye,2022,737136.2,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Türkiye,2023,774812.4,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Kosovo*,2022,7820.1,
+ESTAT:NAMA_10_GDP(1.0),13/12/24 23:00:00,Annual,"Chain linked volumes (2020), million euro",Gross domestic product at market prices,Kosovo*,2023,8138.3,
